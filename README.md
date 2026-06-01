@@ -406,7 +406,7 @@ iridium/
 │   ├── test_browser.py
 │   ├── test_element.py
 │   └── conftest.py
-├── docs/                      # Documentation source
+│                     
 ├── LICENSE
 ├── README.md
 ├── CHANGELOG.md
